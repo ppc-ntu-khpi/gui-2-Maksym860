@@ -1,0 +1,37 @@
+<svg viewBox="0 0 600 420" width="600" height="420" xmlns="http://www.w3.org/2000/svg" style="font-family:'Segoe UI',Arial,sans-serif;">
+  <rect x="0" y="0" width="600" height="420" rx="8" fill="#e8e8e8" stroke="#aaa" stroke-width="1"/>
+  <rect x="0" y="0" width="600" height="32" rx="8" fill="#4a7c59"/>
+  <rect x="0" y="16" width="600" height="16" fill="#4a7c59"/>
+  <circle cx="16" cy="16" r="6" fill="#ff5f57"/>
+  <circle cx="36" cy="16" r="6" fill="#febc2e"/>
+  <circle cx="56" cy="16" r="6" fill="#28c840"/>
+  <text x="300" y="21" text-anchor="middle" fill="white" font-size="13" font-weight="500">MyBank — Matisse GUI Demo</text>
+  <rect x="0" y="32" width="600" height="388" fill="#f0f0f0"/>
+  <rect x="8" y="42" width="584" height="50" rx="4" fill="#e0e0e0" stroke="#ccc" stroke-width="0.5"/>
+  <text x="20" y="73" font-size="13" font-weight="bold" fill="#333">Клієнт:</text>
+  <rect x="80" y="57" width="200" height="28" rx="4" fill="white" stroke="#999" stroke-width="1"/>
+  <text x="92" y="76" font-size="12" fill="#222">Simms, Jane</text>
+  <polygon points="265,66 272,66 268.5,73" fill="#666"/>
+  <rect x="300" y="57" width="70" height="28" rx="4" fill="white" stroke="#999" stroke-width="1"/>
+  <text x="335" y="76" text-anchor="middle" font-size="12" fill="#222">Show</text>
+  <rect x="382" y="57" width="76" height="28" rx="4" fill="white" stroke="#999" stroke-width="1"/>
+  <text x="420" y="76" text-anchor="middle" font-size="12" fill="#222">Report</text>
+  <rect x="470" y="57" width="70" height="28" rx="4" fill="white" stroke="#999" stroke-width="1"/>
+  <text x="505" y="76" text-anchor="middle" font-size="12" fill="#222">About</text>
+  <rect x="8" y="102" width="584" height="300" rx="4" fill="#fffff0" stroke="#ccc" stroke-width="1"/>
+  <text x="18" y="135" font-size="18" font-weight="bold" fill="#222">Simms, Jane</text>
+  <line x1="18" y1="148" x2="582" y2="148" stroke="#ccc" stroke-width="0.8"/>
+  <text x="24" y="170" font-size="12" font-weight="bold" fill="#333">Рахунок #1</text>
+  <text x="100" y="170" font-size="12" fill="#555"> — тип: </text>
+  <text x="140" y="170" font-size="12" font-style="italic" fill="#333">Savings</text>
+  <text x="210" y="170" font-size="12" fill="#555">  |  Баланс: </text>
+  <text x="280" y="170" font-size="12" font-weight="bold" fill="#8b0000">$500.00</text>
+  <text x="24" y="195" font-size="12" font-weight="bold" fill="#333">Рахунок #2</text>
+  <text x="100" y="195" font-size="12" fill="#555"> — тип: </text>
+  <text x="140" y="195" font-size="12" font-style="italic" fill="#333">Checking</text>
+  <text x="215" y="195" font-size="12" fill="#555">  |  Баланс: </text>
+  <text x="285" y="195" font-size="12" font-weight="bold" fill="#8b0000">$200.00</text>
+  <rect x="582" y="102" width="10" height="300" rx="5" fill="#ddd"/>
+  <rect x="583" y="104" width="8" height="60" rx="4" fill="#aaa"/>
+  <text x="300" y="415" text-anchor="middle" font-size="10" fill="#888">Lab 4 — Matisse GUI Demo  |  Author: Maksym</text>
+</svg>
